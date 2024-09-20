@@ -1,8 +1,8 @@
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb244MTI4ZGNxZjYxamlxemI5OXRpZWo1d2xpZnJ3b2dyb3ZvendsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
+<h1 align="left">Abdelrahman Ahmed</h1>
 
 ###
 
-<h1 align="left">Abdelrahman Ahmed</h1>
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb244MTI4ZGNxZjYxamlxemI5OXRpZWo1d2xpZnJ3b2dyb3ZvendsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-ahmed-2b13aa247"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"><a/>
-  <a href="https://discord.com/users/3bdelra7mana7med" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /><a/>
+  <a href="https://discord.com/users/954430427890855996" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /><a/>
   <a href="https://www.instagram.com/3bdelra7man_.a7med"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/><a/>
   <a href="https://wa.me/+2011229940"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /><a/>
 </div>
